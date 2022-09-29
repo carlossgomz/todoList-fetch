@@ -1,12 +1,10 @@
+html,body{
+    background-color: rgb(74, 255, 192);
+}
 
-/* 
-
-    You can write your own styles here...
+.card{
+    min-height: 100px;
+    background-color: antiquewhite;
+    box-shadow: 2px 2px 2px 2px rgb(8, 6, 6);
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+}
